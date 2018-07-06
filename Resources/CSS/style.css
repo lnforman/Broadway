@@ -4,3 +4,31 @@ h1{
   color: white;
   font-weight: bold;
 }
+
+h2{
+  font-family: helvetica;
+  font-size: 32px:
+  font-weight: bold;
+}
+
+h3{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+p{
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.LandingSection{
+  background-image: "./Resources/Images/the-flatiron-building.png" alt="FlatIronBuild">
+}
